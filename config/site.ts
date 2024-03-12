@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const siteConfig = {
-  name: "Teklez Blog",
+  name: "TeklezBlog",
   url: "https://example.com",
   description: "Lesbian Bool Blog",
   author: "Teksavee",
