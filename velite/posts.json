@@ -36,12 +36,48 @@
     "slugAsParams": "code-blocks"
   },
   {
-    "slug": "blog/hello",
-    "title": "Hello World",
-    "description": "This our first blog post",
-    "date": "2024-03-06T00:00:00.000Z",
+    "slug": "blog/gallows-humor",
+    "title": "Gallows Humor",
+    "description": "Hospital Romance",
+    "date": "2024-02-12T00:00:00.000Z",
     "published": true,
-    "body": "const{Fragment:e,jsx:n,jsxs:r}=arguments[0];function _createMdxContent(t){const o={a:\"a\",h1:\"h1\",p:\"p\",...t.components};return r(e,{children:[n(o.h1,{id:\"hello-world\",children:n(o.a,{className:\"subheading-anchor\",href:\"#hello-world\",children:\"Hello World\"})}),\"\\n\",n(o.p,{children:\"Welcome to my blog\"})]})}return{default:function(e={}){const{wrapper:r}=e.components||{};return r?n(r,{...e,children:n(_createMdxContent,{...e})}):_createMdxContent(e)}};",
-    "slugAsParams": "hello"
+    "body": "const{Fragment:e,jsx:t,jsxs:n}=arguments[0];function _createMdxContent(o){const i={img:\"img\",p:\"p\",...o.components};return n(e,{children:[t(i.p,{children:t(i.img,{src:\"/img/gallowshumor.jpg\",alt:\"Gallow\"})}),\"\\n\",t(i.p,{children:\"Corey Curtis is coasting. At 33, she's in the best shape of her life and has a satisfying position at Jackson City Memorial Hospital. With a good paycheck, great friends, and occasional relationships with smart, beautiful women, she couldn't be happier. She thinks.\"}),\"\\n\",t(i.p,{children:\"Dr. Thayer Reynolds, whiling away some time before the start of her Emergency Department fellowship at JCMH and intrigued by the stories she's heard, crashes the morgue to get a look at Corey - the woman her young colleagues are whispering about.\"}),\"\\n\",t(i.p,{children:\"Totally spinning from her first interactions with Thayer, Corey throws herself into the post-mortem exam of a construction worker who fell to his death, which isn't at all suspicious - until it is. With no support from her boss or the police, Corey investigates the death on her own. Making bad decisions with good intentions, she recklessly endangers her own life and Thayer's.\"})]})}return{default:function(e={}){const{wrapper:n}=e.components||{};return n?t(n,{...e,children:t(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "slugAsParams": "gallows-humor"
+  },
+  {
+    "slug": "blog/maiden-leap",
+    "title": "Maiden Leap",
+    "description": "Dealing with the past",
+    "date": "2024-02-12T00:00:00.000Z",
+    "published": true,
+    "body": "const{Fragment:e,jsx:n,jsxs:r}=arguments[0];function _createMdxContent(t){const a={img:\"img\",p:\"p\",...t.components};return r(e,{children:[n(a.p,{children:n(a.img,{src:\"/img/maidenleap.jpg\",alt:\"maiden\"})}),\"\\n\",n(a.p,{children:\"Kate, a devoted wife and mother, has lived her whole life under the mythic bluff called Maiden Leap in a scenic river town. Her contented life is turned inside out when her former high school girlfriend Lucy returns to town as a graduate of a gay conversion therapy program. Now Kate must cope with her guilt and anger over how she and Lucy parted.\"}),\"\\n\",n(a.p,{children:\"As Kate struggles to balance her marriage to her reliable husband and her friendship with mercurial Lucy, their old flame is rekindled and a town secret is uncovered. Kate must learn how to navigate a new world of possibilities, confront her moral conundrums, and solve the age-old mystery surrounding Maiden Leap.\"})]})}return{default:function(e={}){const{wrapper:r}=e.components||{};return r?n(r,{...e,children:n(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "slugAsParams": "maiden-leap"
+  },
+  {
+    "slug": "blog/requiem-for-immortals",
+    "title": "Requiem For Immortals",
+    "description": "Law Game Series Book 1",
+    "date": "2024-02-12T00:00:00.000Z",
+    "published": true,
+    "body": "const{Fragment:e,jsx:t,jsxs:n}=arguments[0];function _createMdxContent(s){const o={img:\"img\",p:\"p\",...s.components};return n(e,{children:[t(o.p,{children:t(o.img,{src:\"/img/requiemforimmort.jpg\",alt:\"Law\"})}),\"\\n\",t(o.p,{children:\"Professional cellist Natalya Tsvetnenko moves seamlessly among the elite where she fills the souls of symphony patrons with beauty even as she takes the lives of the corrupt of Australia's ruthless underworld. The cold, exacting assassin is hired to kill a woman who seems so innocent that Natalya can't understand why anyone would want her dead. As she gets to know her target, she can't work out why she even cares.\"})]})}return{default:function(e={}){const{wrapper:n}=e.components||{};return n?t(n,{...e,children:t(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "slugAsParams": "requiem-for-immortals"
+  },
+  {
+    "slug": "blog/the-fixer",
+    "title": "The Fixer",
+    "description": "The Villian Series Book 1",
+    "date": "2024-02-13T00:00:00.000Z",
+    "published": true,
+    "body": "const{Fragment:e,jsx:t,jsxs:n}=arguments[0];function _createMdxContent(r){const i={img:\"img\",p:\"p\",...r.components};return n(e,{children:[t(i.p,{children:t(i.img,{src:\"/img/thefixer.jpg\",alt:\"Fixer\"})}),\"\\n\",t(i.p,{children:\"A naïve activist is hired by a corporate villain but doesn't realize it. Cue one awkward farce, a twisty puzzle, and the slowest of slow burns in this opposites-attract, ice queen romance.\"}),\"\\n\",t(i.p,{children:\"Nine years ago, aloof, icy Michelle Hastings chose career over love. She's now living with that choice as she rules a secret corporation catering to the rich and powerful.\"}),\"\\n\",t(i.p,{children:\"Enter Eden Lawless. The guileless activist finds it a bit weird being employed by a mystery organization to bring down a corrupt mayor. But, hey, she's up for a challenge. Much harder is getting her beautiful new boss out of her head. The pull between them is electric.\"})]})}return{default:function(e={}){const{wrapper:n}=e.components||{};return n?t(n,{...e,children:t(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "slugAsParams": "the-fixer"
+  },
+  {
+    "slug": "blog/there-you-are",
+    "title": "There You Are",
+    "description": "Romantic Comedy",
+    "date": "2024-02-12T00:00:00.000Z",
+    "published": true,
+    "body": "const{Fragment:e,jsx:t,jsxs:n}=arguments[0];function _createMdxContent(r){const a={img:\"img\",p:\"p\",...r.components};return n(e,{children:[t(a.p,{children:t(a.img,{src:\"/img/thereyouare.jpg\",alt:\"there\"})}),\"\\n\",t(a.p,{children:\"Instead of becoming a famous fashion designer as she'd dreamed, Brett Bishop ends up working for the 24-year-old daughter of an A-list designer instead. Even though her career plans didn't turn out as she expected, she still believes her expectations for her love life will be met. Brett is ready to meet Ms. Right Forever if she can get a break in the schedule her young boss dictates.\"}),\"\\n\",t(a.p,{children:\"Evangeline Scott, known as Scotty, also dreamed of being a famous fashion designer. Years of fighting tooth and nail for a toehold in the fashion industry have taken their toll. Scotty has lowered her expectations and is the latest designer for I Am Alex, a clothing line for young adults. Her boss Alex and her congenial attitude is like a breath of fresh air, but Alex's chief designer, Brett, is something akin to morning breath with a dash of garlic, yet oddly interesting.\"}),\"\\n\",t(a.p,{children:\"Scotty and Brett are more alike than they realize when they first meet, but it takes a crash landing in the wilderness for them to truly realize just how perfect they are for each other. They just have to survive Alex and her sister Cass who can't stand each other, their Uncle Mark who can't stand up to his own dog, and whatever lurks in the Montana mountains.\"})]})}return{default:function(e={}){const{wrapper:n}=e.components||{};return n?t(n,{...e,children:t(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "slugAsParams": "there-you-are"
   }
 ]
