@@ -33,7 +33,7 @@ export default async function AboutPage() {
           </p>
         </div>
         <p className="text-muted-foreground text-lg py-4">
-          Hello I am an advent reader and listener of Lesbian books.  I have started this blog for two reasons. One I throughly enjoy sharing what I have read so other like readers can see if it is something they might enjoy. Two I am learning how to build websites so this will be a way to enjoy and learn at the same time.  I tend to lean more on the romance genre.  So my recommendations might be limited to that audience.
+          Hello I am a reader and listener of Lesbian ficton.  I have started this blog for two reasons. One I thorougly enjoy sharing what I have read so other like readers can see if it is something they might enjoy. Two I am learning how to build websites so this will be a way to enjoy and learn at the same time.  I tend to lean more on the romance genre.  So my recommendations might be limited to that audience.
         </p>
       </div>
     </div>

@@ -3,12 +3,12 @@ import React from 'react'
 export const siteConfig = {
   name: "TeklezBlog",
   url: "https://example.com",
-  description: "Lesbian Bool Blog",
+  description: "Lesbian Book Blog",
   author: "Teksavee",
   links: {
     twitter: "https://twitter.com/home",
     github: "https://github.com/",
-    personalSite: ""
+    personalSite: "www.teksavee.com"
   }
 }
 

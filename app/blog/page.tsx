@@ -5,6 +5,7 @@ import { sortPosts } from '@/lib/utils';
 import "@/styles/mdx.css"
 import { QueryPagination } from '@/components/query.pagination';
 
+
 const POSTs_PER_PAGE = 5;
 
 interface BlogPageProps {
