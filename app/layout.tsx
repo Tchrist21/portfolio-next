@@ -9,8 +9,9 @@ import { SiteFooter } from '@/components/site-footer';
 const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('http://localhost:3000'),
   title: 'Teklez Blog',
-  description: 'Lesbian Blog Book Website',
+  description: 'Lesbian Blog Book Website'
 };
 
 export default function RootLayout({
